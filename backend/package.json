@@ -52,7 +52,7 @@
     "mongoose": "^8.16.3",
     "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1",
-    "weaviate-client": "^3.6.2",
+    "weaviate-client": "^3.8.0",
     "weaviate-ts-client": "^2.2.0"
   },
   "devDependencies": {
