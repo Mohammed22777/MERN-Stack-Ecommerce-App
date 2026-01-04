@@ -44,7 +44,7 @@
     "concurrently": "^9.0.1",
     "cors": "^2.8.5",
     "dotenv": "^16.6.1",
-    "express": "^4.19.2",
+    "express": "^4.22.0",
     "express-validator": "^7.2.0",
     "faiss-node": "^0.5.1",
     "http-proxy-middleware": "^3.0.0",
