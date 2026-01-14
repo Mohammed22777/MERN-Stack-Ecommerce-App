@@ -1,5 +1,5 @@
 # Base image for nginx
-FROM nginx:latest
+FROM nginx:1.29.4-trixie
 
 # Remove the default nginx config file
 RUN rm /etc/nginx/conf.d/default.conf
