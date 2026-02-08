@@ -17,7 +17,7 @@ COPY src    ./src
 RUN npm run build
 
 # 2) Production stage — serve static build via nginx
-FROM nginx:alpine
+FROM nginx:1.29.5-alpine3.23
 
 # Provide a human-readable description for the image
 LABEL org.opencontainers.image.description="Fusion Electronics Frontend – a React SPA built with Material-UI, React-Router, Stripe integration and more."
